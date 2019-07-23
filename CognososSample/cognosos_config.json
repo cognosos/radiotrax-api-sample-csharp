@@ -1,0 +1,7 @@
+﻿{
+  "NOTE":  "Copy this sample config file to your user home directory and fill in the values below",
+  "username": "USERNAME",
+  "password": "PASSWORD",
+  "appcode": "APP",
+  "apiroot": "https://api.cognosos.net"
+}
