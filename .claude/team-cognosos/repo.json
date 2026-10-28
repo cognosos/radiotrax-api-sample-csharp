@@ -1,0 +1,6 @@
+{
+  "repo": "cognosos/radiotrax-api-sample-csharp",
+  "assemblies": {
+    "base": "any"
+  }
+}
